@@ -1,0 +1,62 @@
+.form 
+    .custom-control-label {
+      font-size: 18px;
+      line-height: 26px;
+      margin-bottom: 12px;
+      padding-left: 5px;
+}
+.custom-control-input:checked ~ .custom-control-label::before {
+    border-color: black;
+    background-color: white;
+}
+.custom-radio .custom-control-input:checked ~ .custom-control-label::after {
+    background-color: blue;
+}
+    
+.form__categories {
+    max-width: 680px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.form__category {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+  .custom-control-label {
+    padding: 6px 15px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: grey;
+    border: 2px solid light-grey;
+    border-radius: 6px;
+  }
+
+  .form__search-field {
+    max-width: 680px;
+    padding: 10px 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+  }
+
+  .form__submit {
+    padding: 10px 40px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 22px;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 10px;
+  }
+
+.form__alert{
+    color:red;
+}

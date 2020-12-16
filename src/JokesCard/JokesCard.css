@@ -1,0 +1,27 @@
+.small-text {
+    font-size: 10px;
+    line-height: 14px;
+    color: grey;
+  }
+  .jokes-card {
+    max-width: 680px;
+    padding: 40px;
+    margin: 20px 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: light-grey;
+    border-radius: 20px;
+  }
+
+  
+.jokes-card__body {
+        
+          background-color: light-grey;
+        
+      }
+  
+ .jokes-card__category {
+        background-color: light-grey;
+      }
+    
