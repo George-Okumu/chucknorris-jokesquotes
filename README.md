@@ -1,4 +1,4 @@
-# ChuckNorries-Jokes App
+# React ChuckNorries-Jokes App
 
 Created by George Okumu.
 
