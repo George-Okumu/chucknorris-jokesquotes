@@ -30,7 +30,7 @@ Your app is ready to be deployed!
 Refer here : [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information on deployment.
 
 
-### LiveLink Link
+### Live Link
 https://george-okumu.github.io/chucknorris-jokesquotes/
 
 ### Additional Info:
