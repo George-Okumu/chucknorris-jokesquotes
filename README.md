@@ -1,6 +1,8 @@
 # React ChuckNorries-Jokes App
 
 Created by George Okumu.
+### Live Link
+https://george-okumu.github.io/chucknorris-jokesquotes/
 
 ## Description
 This is my Fisrt React Js Learning project made on request from Digital Apprenticeship Programme
@@ -30,8 +32,7 @@ Your app is ready to be deployed!
 Refer here : [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information on deployment.
 
 
-### Live Link
-https://george-okumu.github.io/chucknorris-jokesquotes/
+
 
 ### Additional Info:
 Still learning how to display the data after searching
