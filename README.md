@@ -31,6 +31,10 @@ Refer here : [deployment](https://facebook.github.io/create-react-app/docs/deplo
 
 
 ### LiveLink Link
+https://george-okumu.github.io/chucknorris-jokesquotes/
+
+### Additional Info:
+Still learning how to display the data after searching
 
 
 
